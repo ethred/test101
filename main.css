@@ -1,0 +1,31 @@
+#survey-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#title {
+  font-size: large;
+}
+
+#description {
+  font-weight: 600;
+  font-size: 30px;
+}
+
+#name-label {
+  font-weight: 500;
+  font-size: 20px;
+}
+#email-label {
+  font-weight: 500;
+  font-size: 20px;
+}
+#number-label {
+  font-weight: 500;
+  font-size: 20px;
+}
+#button {
+  font-weight: 500;
+  font-size: 20px;
+}
